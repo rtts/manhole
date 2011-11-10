@@ -1,0 +1,5 @@
+app/bin/
+app/gen/
+app/build.xml
+app/local.properties
+app/proguard.cfg
